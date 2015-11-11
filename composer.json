@@ -1,7 +1,7 @@
 {
 	"name": "wp-pay-gateways/rabobank-ideal-professional",
-	"description": "Rabobank - iDEAL Professional driver for the WordPress payment processing library.",
-	"keywords": ["wordpress", "wp", "pay", "rabobank", "bank", "ideal", "advanced", "professional", "gateway", "pronamic"],
+	"description": "[DEPRECATED] Rabobank - iDEAL Professional driver for the WordPress payment processing library.",
+	"keywords": ["deprecated", "wordpress", "wp", "pay", "rabobank", "bank", "ideal", "advanced", "professional", "gateway", "pronamic"],
 	"homepage": "http://www.wp-pay.org/gateways/rabobank-ideal-professional/",
 	"license": "GPL",
 	"authors": [
