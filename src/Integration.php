@@ -1,6 +1,6 @@
 <?php
 
-class Pronamic_WP_Pay_Gateways_Rabobank_IDealAdvanced_GatewayIntegration {
+class Pronamic_WP_Pay_Gateways_Rabobank_IDealAdvanced_Integration {
 	public function __construct() {
 		$this->id         = 'rabobank-ideal-professional';
 		$this->name       = 'Rabobank - iDEAL Professional';
